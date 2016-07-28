@@ -1,0 +1,23 @@
+<group>
+	<planet_1>
+		<speed>0</speed>
+		<distance>0</distance>
+		<R>255</R>
+		<G>255</G>
+		<B>255</B>
+	</planet_1>
+	<planet_2>
+		<speed>0</speed>
+		<distance>0</distance>
+		<R>255</R>
+		<G>255</G>
+		<B>255</B>
+	</planet_2>
+	<planet_3>
+		<speed>0</speed>
+		<distance>0</distance>
+		<R>255</R>
+		<G>255</G>
+		<B>255</B>
+	</planet_3>
+</group>
